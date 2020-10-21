@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### I am an undergraduate Informatics university student in Ionian University with specialization in Information Systems. My interests are programming, system's security and educational robotics.
-- 🌱 I’m currently learning IT Automation with Python from Google through an online specialization (5 courses) 
+- 🌱 I’m currently learning throughonline specializations, IT Automation with Python from Google (5 courses) and An Introduction to Programming the Internet of Things (IOT) (5 courses)
 - 📫 How to reach me: giottachou@gmail.com
-
+- ⚡ Fun fact: I also do aerial arts in my free time
 <!--
 **giottachou/giottachou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
