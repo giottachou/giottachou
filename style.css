@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+body {
+  background-image: url('https://www.onlygfx.com/wp-content/uploads/2018/08/9-watercolor-holographic-effect-background-4-1024x718.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  text-align: center
+}
+
+p {
+  text-align: center
+}
