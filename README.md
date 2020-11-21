@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my Thesis.  Thesis' theme is _**"Hybrid Games using Internet of Things"**_
 - 🌱 I’m currently learning through online specializations, IT Automation with Python from Google (5 courses)
 - 📫 How to reach me: giottachou@gmail.com
-- ![linkedin logo](/images/linkedin.png) :large_blue_circle: https://www.linkedin.com/in/panagiota-chouliaraki-33a0881b6/
+- <img src="/images/linkedin.png" width="15"> :large_blue_circle: https://www.linkedin.com/in/panagiota-chouliaraki-33a0881b6/
 - ⚡ Fun fact: I also do aerial arts in my free time
 <!--
 **giottachou/giottachou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
