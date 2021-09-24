@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I am an undergraduate Informatics university student in Ionian University with specialization in Information Systems. My interests are programming,IoT, system's security,games and educational robotics.
-- 🔭 I’m currently working on my Thesis.  Thesis' theme is _**"Hybrid Games using Internet of Things"**_
+- 🔭 I just finished on my Thesis.  Thesis' theme is _**"Hybrid Games using Internet of Things"**_ .Soon I will have my degree.
 - 📫 How to reach me: giottachou@gmail.com
 - :large_blue_circle: [Linkedin](https://www.linkedin.com/in/panagiota-chouliaraki-33a0881b6/)
 - ⚡ Fun fact: I also do aerial arts in my free time
