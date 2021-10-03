@@ -3,7 +3,8 @@
 - 🔭 I just finished on my Thesis.  Thesis' theme is _**"Hybrid Games using Internet of Things"**_ .Soon I will have my degree.
 - 📫 How to reach me: giottachou@gmail.com
 - :large_blue_circle: [Linkedin](https://www.linkedin.com/in/panagiota-chouliaraki-33a0881b6/)
-- ⚡ Fun fact: I also do aerial arts in my free time
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I like playing D&D and also do aerial arts in my free time
 <!--
 **giottachou/giottachou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
