@@ -1,10 +1,10 @@
 ### Hi there 👋
-### I am an undergraduate Informatics university student, and soon-to-be graduate, at Ionian University with specialization in Information Systems. My interests are programming,IoT, cyber security,games and educational robotics.
-- 🔭 I just finished on my Thesis.  Thesis' theme is _**"Hybrid Games using Internet of Things"**_ .
+### I am a graduate Informatics university student at Ionian University majoring in Information Systems. My interests are programming,IoT, cyber security,games and educational robotics.
+- 🔭   Thesis' theme is _**"Hybrid Games using Internet of Things"**_ .
 - 📫 How to reach me: giottachou@gmail.com
 - :large_blue_circle: [Linkedin](https://www.linkedin.com/in/panagiota-chouliaraki-33a0881b6/)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I like playing D&D and also do aerial arts in my free time
+- ⚡ Fun fact: In my free time, I enjoy gaming, D&D, and dancing, which spark creativity and provide balance in my life.
 <!--
 **giottachou/giottachou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
